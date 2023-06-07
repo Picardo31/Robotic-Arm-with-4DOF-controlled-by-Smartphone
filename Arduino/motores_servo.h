@@ -1,0 +1,10 @@
+void move_servos(int s);
+int base(int d);
+int arm(int d);
+int elbow(int d);
+int forearm(int d);
+int wrist(int d);
+int gripper(int d);
+BLA::Matrix<5,1> get_angles();
+void set_angles(BLA::Matrix<5,1> angles);
+void setup_servos(int b,int a, int e,int f,int w,int g);
