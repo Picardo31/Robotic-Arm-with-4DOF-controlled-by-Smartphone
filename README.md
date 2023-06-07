@@ -1,5 +1,6 @@
 # Robotic-Arm-with-4DOF-controlled-by-Smartphone
 ![RA](https://github.com/Picardo31/Robotic-Arm-with-4DOF-controlled-by-Smartphone/assets/70179309/efb514dd-47f4-4f90-b3ed-2257d35d23c3)
+
 The following study describes the design and implementation of a robotic arm that has 4 degrees of freedom, used to lift
 objects from a certain specific point and leave them in another place. In the document, the kinematic study of the robot can be evidenced,
 both the mechanical and electronic design, in addition, an application for cell phones was designed and programmed, through which the
